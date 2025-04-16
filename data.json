@@ -1,0 +1,72 @@
+[
+   {
+      "empName": "Ali",
+      "empEmail": "Ali@gmail.com",
+      "empNumber": "+9213569832565",
+      "empAddress": "karachi-pakistan",
+      "empSalary": "60000"
+   },
+   {
+      "empName": "Owais",
+      "empEmail": "owais@gmail.com",
+      "empNumber": "+923125849632",
+      "empAddress": "karachi-pakistan",
+      "empSalary": "40000"
+   },
+   {
+      "empName": "Abdul",
+      "empEmail": "Abdul@gmail.com",
+      "empNumber": "+92345625856",
+      "empAddress": "karachi-pakistan",
+      "empSalary": "50000"
+   },
+   {
+      "empName": "Rehman",
+      "empEmail": "rehman@gmail.com",
+      "empNumber": "+92312654825",
+      "empAdderess": "karachi-pakistan",
+      "empSalary": "30000"
+   },
+   {
+      "empName": "Sarim",
+      "empEmail": "sarim@gmail.com",
+      "empNumber": "+923215698741",
+      "empAdderess": "karachi-pakistan",
+      "empSalary": "20000"
+   },
+   {
+      "empName": "anus",
+      "empEmail": "anus@gmail.com",
+      "empNumber": "+9213569832578",
+      "empAddress": "karachi-pakistan",
+      "empSalary": "60000"
+   },
+   {
+      "empName": "Asif",
+      "empEmail": "asif@gmail.com",
+      "empNumber": "+923125849612",
+      "empAddress": "karachi-pakistan",
+      "empSalary": "40000"
+   },
+   {
+      "empName": "Bilal",
+      "empEmail": "bilal@gmail.com",
+      "empNumber": "+92345625851",
+      "empAddress": "karachi-pakistan",
+      "empSalary": "50000"
+   },
+   {
+      "empName": "sonu",
+      "empEmail": "sonu@gmail.com",
+      "empNumber": "+92312654845",
+      "empAdderess": "karachi-pakistan",
+      "empSalary": "30000"
+   },
+   {
+      "empName": "Aman",
+      "empEmail": "aman@gmail.com",
+      "empNumber": "+923215698732",
+      "empAdderess": "karachi-pakistan",
+      "empSalary": "10000"
+   }
+]
